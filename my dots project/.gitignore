@@ -1,0 +1,20 @@
+﻿# This .gitignore file should be placed at the root of your Unity project directory
+#
+# Get latest from https://github.com/github/gitignore/blob/main/Unity.gitignore
+#
+Library/
+Temp/
+Obj/
+Build/
+Builds/
+Logs/
+UserSettings/
+
+# MemoryCaptures can get excessive in size.
+# They also could contain extremely sensitive data
+MemoryCaptures/
+
+# Recordings can get excessive in size
+Recordings/
+
+# Uncomment this line if you wish to ignore the asset store tools plugin
